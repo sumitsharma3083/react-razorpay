@@ -28,3 +28,11 @@
   background: blue;
 
 }
+
+@media only screen and (max-width: 768px) {
+  .card{
+    width: 90%;
+    margin: auto;
+    
+  }
+}
